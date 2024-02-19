@@ -1,0 +1,1143 @@
+#Dịch Poweradmin.
+# Copyright (C) 2022 Nhóm phát triển Poweradmin
+# Tệp này được phân phối theo cùng giấy phép với gói Poweradmin.
+#
+msgstr ""
+msgstr ""
+"ID dự án-Phiên bản: Poweradmin\n"
+"Báo cáo-Msgid-Bugs-To: https://github.com/poweradmin/poweradmin/issues\n"
+"POT-Ngày tạo: 2011-06-08 07:11+0300\n"
+"PO-Ngày sửa đổi: 2011-06-08 04:19+0000\n"
+"Người dịch cuối cùng: Edmondas Girkantas <edmondas@girkantas.lt>\n"
+"Ngôn ngữ-Nhóm: Tiếng Anh\n"
+"Phiên bản MIME: 1.0\n"
+"Loại nội dung: văn bản/thuần túy; bộ ký tự=UTF-8\n"
+"Mã hóa-Truyền nội dung: 8bit\n"
+"Ngôn ngữ: en\n"
+"Dạng số nhiều: nplurals=2; số nhiều=(n != 1)\n"
+
+#: add_perm_templ.php:40 list_perm_templ.php:61
+msgstr "Thêm mẫu quyền"
+msgstr "Thêm mẫu quyền"
+
+#: add_perm_templ.php:44 add_perm_templ.php:55 add_record.php:120
+#: add_zone_templ.php:45 add_zone_templ_record.php:99 delete_domains.php:56
+#: edit.php:143 edit.php:240 edit_perm_templ.php:53 edit_perm_templ.php:65
+#: edit_record.php:67 edit_zone_templ.php:96 edit_zone_templ.php:173
+#: edit_zone_templ_record.php:61 list_perm_templ.php:36 list_zone_templ.php:37
+#: list_zones.php:67 search.php:65 search.php:119
+msgstr "Tên"
+msgstr "Tên"
+
+#: add_perm_templ.php:48 add_perm_templ.php:56 add_user.php:67
+#: add_zone_templ.php:49 edit_perm_templ.php:57 edit_perm_templ.php:66
+#: edit_user.php:132 edit_zone_templ.php:177 list_perm_templ.php:37
+#: list_zone_templ.php:38 user.php:54
+msgstr "Mô tả"
+msgstr "Mô tả"
+
+#: add_perm_templ.php:72 add_user.php:76 delete_user.php:111 edit.php:227
+#: edit_comment.php:87 edit_perm_templ.php:86 edit_record.php:109
+#: edit_user.php:141 edit_zone_templ.php:163 edit_zone_templ.php:181
+#: edit_zone_templ_record.php:91 user.php:121
+msgstr "Xác nhận thay đổi"
+msgstr "Xác nhận thay đổi"
+
+#: add_record.php:102 add_zone_templ_record.php:81
+msgstr "Bản ghi đã được thêm thành công."
+msgstr "Bản ghi đã được thêm thành công."
+
+#: add_record.php:111
+msgstr "Thêm bản ghi vào vùng"
+msgstr "Thêm bản ghi vào vùng"
+
+#: add_record.php:122 add_zone_master.php:121 add_zone_templ_record.php:101
+#: delete_domain.php:63 delete_domains.php:58 edit.php:144 edit.php:242
+#: edit.php:349 edit_record.php:69 edit_zone_templ.php:97
+#: edit_zone_templ_record.php:63 list_zones.php:68 search.php:66
+#: search.php:120
+msgstr "Loại"
+msgstr "Loại"
+
+#: add_record.php:123 add_zone_templ_record.php:102 edit.php:145 edit.php:243
+#: edit_record.php:71 edit_zone_templ.php:98 edit_zone_templ_record.php:65
+#: search.php:122
+msgstr "Nội dung"
+msgstr "Nội dung"
+
+#: add_record.php:124 add_zone_templ_record.php:103 edit.php:146 edit.php:244
+#: edit_record.php:70 edit_zone_templ.php:99 edit_zone_templ_record.php:64
+#: search.php:121
+msgstr "Ưu tiên"
+msgstr "Ưu tiên"
+
+#: add_record.php:125 add_zone_templ_record.php:104 edit.php:147 edit.php:245
+#: edit_record.php:72 edit_zone_templ.php:100 edit_zone_templ_record.php:66
+#: search.php:123
+msgstr "TTL"
+msgstr "TTL"
+
+#: add_record.php:158 add_zone_templ_record.php:147 edit.php:287
+#: edit_zone_templ.php:183
+msgstr "Thêm bản ghi"
+msgstr "Thêm bản ghi"
+
+#: add_supermaster.php:54 add_supermaster.php:106 inc/header.inc.php:79
+#: index.php:57
+msgstr "Thêm siêu chủ"
+msgstr "Thêm siêu chủ"
+
+#: add_supermaster.php:57
+msgstr "Bạn không có quyền thêm siêu chủ mới."
+msgstr "Bạn không có quyền thêm siêu chủ mới."
+
+#: add_supermaster.php:62 list_supermasters.php:36
+msgstr "Địa chỉ IP của siêu chủ"
+msgstr "Địa chỉ IP của supermaster"
+
+#: add_supermaster.php:72 delete_supermaster.php:58 list_supermasters.php:37
+msgstr "Tên máy chủ trong bản ghi NS"
+msgstr "Tên máy chủ trong bản ghi NS"
+
+#: add_supermaster.php:82 delete_supermaster.php:59 list_supermasters.php:38
+msgstr "Tài khoản"
+msgstr "Tài khoản"
+
+#: add_user.php:35 user.php:135
+msgstr "Thêm người dùng"
+msgstr "Thêm người dùng"
+
+#: add_user.php:39 edit_user.php:103 inc/auth.inc.php:133 install/index.php:93
+#: install/index.php:172 user.php:52
+msgstr "Tên người dùng"
+msgstr "Tên người dùng"
+
+#: add_user.php:43 edit_user.php:107 user.php:53
+msgstr "Tên đầy đủ"
+msgstr "Tên đầy đủ"
+
+#: add_user.php:47 edit_user.php:111 inc/auth.inc.php:137 install/index.php:98
+#: cài đặt/index.php:177
+msgstr "Mật khẩu"
+msgstr "Mật khẩu"
+
+#: add_user.php:51 edit_user.php:115 user.php:55
+msgstr "Địa chỉ email"
+msgstr "Địa chỉ email"
+
+#: add_user.php:56 edit_user.php:120
+msgstr "Mẫu quyền"
+msgstr "Mẫu quyền"
+
+#: add_user.php:71 edit_user.php:136 user.php:57
+msgstr "Đã bật"
+msgstr "Đã bật"
+
+#: add_zone_master.php:82 inc/header.inc.php:73 index.php:51
+msgstr "Thêm vùng chính"
+msgstr "Thêm vùng chính"
+
+#: add_zone_master.php:91 add_zone_slave.php:73
+msgstr "Tên vùng"
+msgstr "Tên vùng"
+
+#: add_zone_master.php:102 add_zone_slave.php:85 delete_domain.php:62
+#: delete_domains.php:57 list_zones.php:70 search.php:70
+msgstr "Chủ sở hữu"
+msgstr "Chủ sở hữu"
+
+#: add_zone_master.php:132 edit.php:381 user.php:56
+msgstr "Mẫu"
+msgstr "Mẫu"
+
+#: add_zone_master.php:146 add_zone_slave.php:106
+msgstr "Thêm vùng"
+msgstr "Thêm vùng"
+
+#: add_zone_slave.php:67 inc/header.inc.php:76 index.php:54
+msgstr "Thêm vùng phụ thuộc"
+msgstr "Thêm vùng phụ"
+
+#: add_zone_slave.php:79 edit.php:413
+msgstr "Địa chỉ IP của NS chính"
+msgstr "Địa chỉ IP của NS chính"
+
+#: add_zone_templ.php:41
+msgstr "Thêm mẫu vùng cho"
+msgstr "Thêm mẫu vùng cho"
+
+#: add_zone_templ.php:53 list_zone_templ.php:59
+msgstr "Thêm mẫu vùng"
+msgstr "Thêm mẫu vùng"
+
+#: add_zone_templ_record.php:90
+msgstr "Thêm bản ghi vào mẫu vùng"
+msgstr "Thêm bản ghi vào mẫu vùng"
+
+#: add_zone_templ_record.php:139 edit_zone_templ.php:145
+msgstr "Các phần giữ chỗ sau đây có thể được sử dụng trong bản ghi mẫu"
+msgstr "Các phần giữ chỗ sau có thể được sử dụng trong bản ghi mẫu"
+
+#: add_zone_templ_record.php:142 edit_zone_templ.php:148
+msgstr "được thay thế bằng tên vùng hiện tại"
+msgstr "được thay thế bằng tên vùng hiện tại"
+
+#: add_zone_templ_record.php:143 edit_zone_templ.php:149
+msgstr "được thay thế bằng ngày hiện tại và 2 số"
+msgstr "được thay thế bằng ngày hiện tại và 2 số"
+
+#: Change_password.php:31 Change_password.php:49 inc/header.inc.php:81
+#: index.php:59
+msgstr "Đổi mật khẩu"
+msgstr "Đổi mật khẩu"
+
+#: Change_password.php:35
+msgstr "Mật khẩu hiện tại"
+msgstr "Mật khẩu hiện tại"
+
+#: Change_password.php:39 Change_password.php:43
+msgstr "Mật khẩu mới"
+msgstr "Mật khẩu mới"
+
+#: delete_domain.php:54 list_zones.php:99 search.php:84
+msgstr "Xóa vùng"
+msgstr "Xóa vùng"
+
+#: delete_domain.php:68 delete_domains.php:63
+#, định dạng php
+msgstr ""
+"Bạn sắp xóa một vùng phụ mà máy chủ tên chính, %s, là "
+"một siêu thủ lĩnh. Việc xóa vùng ngay bây giờ sẽ chỉ dẫn đến việc xóa vùng tạm thời."
+" Bất cứ khi nào siêu chủ gửi thông báo cho khu vực này sẽ là "
+"Thêm lần nữa!"
+msgstr ""
+"Bạn sắp xóa một vùng phụ mà máy chủ tên chính, %s, là "
+"một siêu thủ lĩnh. Việc xóa vùng ngay bây giờ sẽ chỉ dẫn đến việc xóa vùng tạm thời."
+" Bất cứ khi nào siêu chủ gửi thông báo cho khu vực này sẽ là "
+"Thêm lần nữa!"
+
+#: delete_domain.php:72 delete_domains.php:72 delete_perm_templ.php:49
+#: delete_record.php:94 delete_supermaster.php:61 delete_zone_templ.php:50
+#: delete_zone_templ_record.php:74
+msgstr "Bạn có chắc không?"
+msgstr "Bạn có chắc không?"
+
+#: delete_domain.php:73 delete_domains.php:73 delete_perm_templ.php:50
+#: delete_record.php:95 delete_supermaster.php:62 delete_zone_templ.php:51
+#: delete_zone_templ_record.php:75
+msgstr "Có"
+msgstr "Có"
+
+#: delete_domain.php:74 delete_domains.php:74 delete_perm_templ.php:51
+#: delete_record.php:96 delete_supermaster.php:63 delete_zone_templ.php:52
+#: delete_zone_templ_record.php:76
+msgstr "Không"
+msgstr "Không"
+
+#: delete_domains.php:41
+msgstr "Xóa vùng"
+msgstr "Xóa vùng"
+
+#: delete_perm_templ.php:43
+msgstr "Xóa mẫu quyền"
+msgstr "Xóa mẫu quyền"
+
+#: delete_record.php:66 delete_zone_templ_record.php:53 edit.php:163
+#: edit_zone_templ.php:109 search.php:136
+msgstr "Xóa bản ghi"
+msgstr "Xóa bản ghi"
+
+#: delete_record.php:92
+msgstr ""
+"Bạn đang cố xóa một bản ghi cần thiết để vùng này hoạt động."
+msgstr ""
+"Bạn đang cố xóa một bản ghi cần thiết để vùng này hoạt động."
+
+#: delete_supermaster.php:45 list_supermasters.php:51
+msgstr "Xóa siêu chủ"
+msgstr "Xóa siêu chủ"
+
+#: delete_user.php:60 user.php:75
+msgstr "Xóa người dùng"
+msgstr "Xóa người dùng"
+
+#: delete_user.php:71
+msgstr ""
+"Bạn sắp xóa một người dùng. Người dùng này là chủ sở hữu của một số khu vực."
+"Xin hãy quyết định phải làm gì với những khu vực này."
+msgstr ""
+"Bạn sắp xóa một người dùng. Người dùng này là chủ sở hữu của một số khu vực."
+"Xin hãy quyết định phải làm gì với những khu vực này."
+
+#: delete_user.php:76
+msgstr "Vùng"
+msgstr "Vùng"
+
+#: delete_user.php:77 edit.php:310
+msgstr "Xóa"
+msgstr "Xóa"
+
+#: delete_user.php:78
+msgstr "Rời đi"
+msgstr "Rời đi"
+
+#: delete_user.php:79
+msgstr "Thêm chủ sở hữu mới"
+msgstr "Thêm chủ sở hữu mới"
+
+#: delete_user.php:80
+msgstr "Sẽ thêm chủ sở hữu"
+msgstr "Sẽ thêm chủ sở hữu"
+
+#: delete_user.php:106
+msgstr "Thực sự xóa người dùng này?"
+msgstr "Thực sự xóa người dùng này?"
+
+#: delete_zone_templ.php:44 edit_zone_templ.php:184
+msgstr "Xóa mẫu vùng"
+msgstr "Xóa mẫu vùng"
+
+#: edit.php:129 search.php:79
+msgstr "Chỉnh sửa vùng"
+msgstr "Chỉnh sửa vùng"
+
+#: edit.php:137
+msgstr "Vùng này không có bản ghi nào. Kỳ lạ."
+msgstr "Vùng này không có bản ghi nào. Thật lạ."
+
+#: edit.php:161 edit_zone_templ.php:107 search.php:131
+msgstr "Chỉnh sửa bản ghi"
+msgstr "Chỉnh sửa bản ghi"
+
+#: edit.php:210
+msgstr "Chỉnh sửa bình luận"
+msgstr "Chỉnh sửa bình luận"
+
+#: edit.php:219 edit_zone_templ.php:155
+msgstr "Tên mẫu"
+msgstr "Tên mẫu"
+
+#: edit.php:223 edit_zone_templ.php:159
+msgstr "Mô tả mẫu"
+msgstr "Mô tả mẫu"
+
+#: edit.php:228 edit_comment.php:88 edit_record.php:110 edit_user.php:142
+#: edit_zone_templ.php:164 edit_zone_templ_record.php:92 user.php:122
+msgstr "Đặt lại các thay đổi"
+msgstr "Đặt lại các thay đổi"
+
+#: edit.php:229 edit_zone_templ.php:165
+msgstr "Lưu dưới dạng mẫu"
+msgstr "Lưu dưới dạng mẫu"
+
+#: edit.php:295
+msgstr "Chủ sở hữu vùng"
+msgstr "Chủ sở hữu khu vực"
+
+#: edit.php:301
+msgstr "Chưa có chủ sở hữu nào được đặt cho vùng này."
+msgstr "Chưa có chủ sở hữu nào được đặt cho vùng này."
+
+#: edit.php:343
+msgstr "Thêm"
+msgstr "Thêm"
+
+#: edit.php:372 edit.php:401 edit.php:424
+msgstr "Thay đổi"
+msgstr "Thay đổi"
+
+#: edit_comment.php:53
+msgstr "Chỉnh sửa bình luận trong vùng"
+msgstr "Chỉnh sửa bình luận trong vùng"
+
+#: edit_perm_templ.php:47 user.php:131
+msgstr "Chỉnh sửa mẫu quyền"
+msgstr "Chỉnh sửa mẫu quyền"
+
+#: edit_record.php:58
+msgstr "Chỉnh sửa bản ghi trong vùng"
+msgstr "Chỉnh sửa bản ghi trong vùng"
+
+#: edit_user.php:98 user.php:71
+msgstr "Chỉnh sửa người dùng"
+msgstr "Chỉnh sửa người dùng"
+
+#: edit_user.php:147
+#, định dạng php
+msgstr "Người dùng này đã được gán mẫu quyền \"%s\"."
+msgstr "Người dùng này đã được gán mẫu quyền \"%s\"."
+
+#: edit_user.php:149
+msgstr "Mô tả cho bản mẫu này là"
+msgstr "Mô tả cho mẫu này là"
+
+#: edit_user.php:151
+msgstr "Dựa trên mẫu này, người dùng này có các quyền sau"
+msgstr "Dựa trên mẫu này, người dùng này có các quyền sau"
+
+#: edit_zone_templ.php:82
+msgstr "Chỉnh sửa mẫu vùng"
+msgstr "Chỉnh sửa mẫu vùng"
+
+#: edit_zone_templ.php:90
+msgstr "Vùng bản mẫu này chưa có bản ghi nào."
+msgstr "Vùng mẫu này chưa có bản ghi nào."
+
+#: edit_zone_templ.php:166
+msgstr "Cập nhật vùng"
+msgstr "Cập nhật vùng"
+
+#: edit_zone_templ_record.php:52
+msgstr "Chỉnh sửa bản ghi trong mẫu vùng"
+msgstr "Chỉnh sửa bản ghi trong mẫu vùng"
+
+#: inc/auth.inc.php:31
+msgstr "Bạn đã đăng xuất."
+msgstr "Bạn đã đăng xuất."
+
+#: inc/auth.inc.php:45
+msgstr "Phiên đã hết hạn, vui lòng đăng nhập lại."
+msgstr "Phiên đã hết hạn, vui lòng đăng nhập lại."
+
+#: inc/auth.inc.php:93
+msgstr "Xác thực thất bại!"
+msgstr "Xác thực không thành công!"
+
+#: inc/auth.inc.php:106
+msgstr ""
+"Xác thực không thành công! - <a href=\"reset_password.php\">(quên "
+"mật khẩu)</a>"
+msgstr ""
+"Xác thực không thành công! - <a href=\"reset_password.php\">(quên "
+"mật khẩu)</a>"
+
+#: inc/auth.inc.php:127
+msgstr "Đăng nhập"
+msgstr "Đăng nhập"
+
+#: inc/auth.inc.php:143
+msgstr "Đi"
+msgstr "Đi"
+
+msgstr "Bạn không có quyền thực hiện tìm kiếm."
+msgstr "Bạn không có quyền thực hiện tìm kiếm."
+
+msgstr "Bạn không có quyền thêm bản ghi vào vùng này."
+msgstr "Bạn không có quyền thêm bản ghi vào vùng này."
+
+msgstr "Bạn không có quyền chỉnh sửa bản ghi này."
+msgstr "Bạn không có quyền chỉnh sửa bản ghi này."
+
+msgstr "Bạn không có quyền xem bản ghi này."
+msgstr "Bạn không có quyền xem bản ghi này."
+
+msgstr "Bạn không có quyền xóa bản ghi này."
+msgstr "Bạn không có quyền xóa bản ghi này."
+
+msgstr "Bạn không có quyền thêm vùng chính."
+msgstr "Bạn không có quyền thêm vùng chính."
+
+msgstr "Bạn không có quyền thêm vùng phụ thuộc."
+msgstr "Bạn không có quyền thêm vùng phụ."
+
+msgstr "Bạn không có quyền xóa một vùng."
+msgstr "Bạn không có quyền xóa một vùng."
+
+msgstr "Bạn không có quyền xem bình luận này."
+msgstr "Bạn không có quyền xem bình luận này."
+
+msgstr "Bạn không có quyền chỉnh sửa bình luận này."
+msgstr "Bạn không có quyền chỉnh sửa bình luận này."
+
+msgstr "Bạn không có quyền xóa siêu chủ."
+msgstr "Bạn không có quyền xóa supermaster."
+
+msgstr "Bạn không có quyền xem vùng này."
+msgstr "Bạn không có quyền xem khu vực này."
+
+msgstr "Bạn không có quyền chỉnh sửa người dùng này."
+msgstr "Bạn không có quyền chỉnh sửa người dùng này."
+
+msgstr "Bạn không có quyền chỉnh sửa mẫu quyền."
+msgstr "Bạn không có quyền chỉnh sửa mẫu quyền."
+
+msgstr "Bạn không có quyền xóa mẫu quyền."
+msgstr "Bạn không có quyền xóa mẫu quyền."
+
+msgstr "Bạn không có quyền thêm người dùng mới."
+msgstr "Bạn không có quyền thêm người dùng mới."
+
+msgstr "Bạn không có quyền xóa người dùng này."
+msgstr "Bạn không có quyền xóa người dùng này."
+
+msgstr "Bạn không có quyền chỉnh sửa mẫu vùng."
+msgstr "Bạn không có quyền chỉnh sửa mẫu vùng."
+
+msgstr "Bạn không có quyền xóa mẫu vùng."
+msgstr "Bạn không có quyền xóa mẫu vùng."
+
+msgstr "Bạn không có quyền thêm mẫu vùng."
+msgstr "Bạn không có quyền thêm mẫu vùng."
+
+msgstr "Đây là tên vùng không hợp lệ."
+msgstr "Đây là tên vùng không hợp lệ."
+
+msgstr "Đã có một siêu chủ sở hữu địa chỉ IP này."
+msgstr "Đã có một siêu chủ sở hữu địa chỉ IP này."
+
+msgstr "Đã có một vùng có tên này."
+msgstr "Đã có một khu vực có tên này."
+
+msgstr "Tên người dùng đã tồn tại, vui lòng chọn tên khác."
+msgstr "Tên người dùng đã tồn tại, vui lòng chọn tên khác."
+
+msgstr "Người dùng không tồn tại."
+msgstr "Người dùng không tồn tại."
+
+msgstr "Bạn chưa nhập đúng mật khẩu hiện tại."
+msgstr "Bạn chưa nhập đúng mật khẩu hiện tại."
+
+msgstr "Hai trường mật khẩu mới không khớp nhau."
+msgstr "Hai trường mật khẩu mới không khớp nhau."
+
+msgstr "Mẫu này được gán cho ít nhất một người dùng."
+msgstr "Mẫu này được gán cho ít nhất một người dùng."
+
+msgstr "Đầu vào được đưa ra không hợp lệ hoặc không mong muốn."
+msgstr "Đầu vào được đưa ra không hợp lệ hoặc không mong muốn."
+
+#, định dạng php
+msgstr "(các) đối số không hợp lệ được gán cho hàm %s"
+msgstr "(các) đối số không hợp lệ được cung cấp cho hàm %s"
+
+#, định dạng php
+msgstr "(các) đối số không hợp lệ được gán cho hàm %s %s"
+msgstr "(các) đối số không hợp lệ được gán cho hàm %s %s"
+
+msgstr "Lỗi không xác định."
+msgstr "Lỗi không xác định."
+
+msgstr "Nhập địa chỉ email hợp lệ."
+msgstr "Nhập địa chỉ email hợp lệ."
+
+msgstr "Không có vùng nào có ID này."
+msgstr "Không có vùng nào có ID này."
+
+msgstr "Không có mẫu vùng nào có ID này."
+msgstr "Không có mẫu vùng nào có ID này."
+
+msgstr ""
+"Thư mục <a href=\"install/\">install/</a> tồn tại, bạn phải xóa nó "
+"đầu tiên trước khi tiếp tục."
+msgstr ""
+"Thư mục <a href=\"install/\">install/</a> tồn tại, bạn phải xóa nó "
+"đầu tiên trước khi tiếp tục."
+
+msgstr ""
+"Mẫu vùng có tên này đã tồn tại, vui lòng chọn tên khác."
+msgstr ""
+"Mẫu vùng có tên này đã tồn tại, vui lòng chọn tên khác."
+
+msgstr "Tên mẫu không được là một chuỗi rỗng."
+msgstr "Tên mẫu không được là một chuỗi rỗng."
+
+msgstr "Không có tên cơ sở dữ liệu nào được đặt trong config.inc.php."
+msgstr "Không có tên cơ sở dữ liệu nào được đặt trong config.inc.php."
+
+msgstr "Chưa có máy chủ cơ sở dữ liệu nào được thiết lập trong config.inc.php."
+msgstr "Chưa có máy chủ cơ sở dữ liệu nào được thiết lập trong config.inc.php."
+
+msgstr "Chưa có tên người dùng cơ sở dữ liệu nào được đặt trong config.inc.php."
+msgstr "Chưa có tên người dùng cơ sở dữ liệu nào được đặt trong config.inc.php."
+
+msgstr "Chưa có mật khẩu cơ sở dữ liệu nào được đặt trong config.inc.php."
+msgstr "Không có mật khẩu cơ sở dữ liệu nào được đặt trong config.inc.php."
+
+msgstr "Không có hoặc loại cơ sở dữ liệu không xác định đã được đặt trong config.inc.php."
+msgstr "Không có hoặc loại cơ sở dữ liệu không xác định đã được đặt trong config.inc.php."
+
+msgstr ""
+"Có vẻ như bạn đã quên cập nhật cơ sở dữ liệu sau khi nâng cấp Poweradmin lên "
+"phiên bản mới."
+msgstr ""
+"Có vẻ như bạn đã quên cập nhật cơ sở dữ liệu sau khi nâng cấp Poweradmin lên "
+"phiên bản mới."
+
+msgstr "Trường nội dung của bạn không có giá trị hợp pháp."
+msgstr "Trường nội dung của bạn không có giá trị hợp pháp."
+
+msgstr "Tên máy chủ không hợp lệ."
+msgstr "Tên máy chủ không hợp lệ."
+
+msgstr "Bạn có các ký tự không hợp lệ trong tên máy chủ của mình."
+msgstr "Tên máy chủ của bạn có các ký tự không hợp lệ."
+
+msgstr "Tên máy chủ không thể bắt đầu hoặc kết thúc bằng dấu gạch ngang."
+msgstr "Tên máy chủ không thể bắt đầu hoặc kết thúc bằng dấu gạch ngang."
+
+msgstr "Tên máy chủ hoặc một trong các nhãn quá ngắn hoặc quá dài."
+msgstr "Tên máy chủ hoặc một trong các nhãn quá ngắn hoặc quá dài."
+
+msgstr "Tên máy chủ đã cho có quá nhiều dấu gạch chéo."
+msgstr "Tên máy chủ đã cho có quá nhiều dấu gạch chéo."
+
+msgstr "Loại bản ghi không xác định."
+msgstr "Loại bản ghi không xác định."
+
+msgstr "Đây không phải là địa chỉ IPv4 hoặc IPv6 hợp lệ."
+msgstr "Đây không phải là địa chỉ IPv4 hoặc IPv6 hợp lệ."
+
+msgstr "Đây không phải là địa chỉ IPv6 hợp lệ."
+msgstr "Đây không phải là địa chỉ IPv6 hợp lệ."
+
+msgstr "Đây không phải là địa chỉ IPv4 hợp lệ."
+msgstr "Đây không phải là địa chỉ IPv4 hợp lệ."
+
+msgstr ""
+"Đây không phải là CNAME hợp lệ. Bạn đã gán bản ghi MX hay NS cho bản ghi phải không?"
+msgstr ""
+"Đây không phải là CNAME hợp lệ. Bạn đã gán bản ghi MX hay NS cho bản ghi phải không?"
+
+msgstr ""
+"Đây không phải là bản ghi hợp lệ. Đã tồn tại CNAME có tên này."
+msgstr ""
+"Đây không phải là bản ghi hợp lệ. Đã tồn tại CNAME có tên này."
+
+msgstr ""
+"Đây không phải là CNAME hợp lệ. Đã tồn tại A, AAAA hoặc CNAME với "
+"tên này."
+msgstr ""
+"Đây không phải là CNAME hợp lệ. Đã tồn tại A, AAAA hoặc CNAME với "
+"tên này."
+
+msgstr ""
+"Bạn không thể trỏ bản ghi NS hoặc MX vào bản ghi CNAME. Hãy xóa hoặc ghép "
+"Ghi CNAME trước hoặc lấy tên khác."
+msgstr ""
+"Bạn không thể trỏ bản ghi NS hoặc MX vào bản ghi CNAME. Hãy xóa hoặc ghép "
+"Ghi CNAME trước hoặc lấy tên khác."
+
+msgstr "Bản ghi NS phải là tên máy chủ."
+msgstr "Bản ghi NS phải là tên máy chủ."
+
+msgstr "Trường ưu tiên phải là số."
+msgstr "Trường ưu tiên phải là số."
+
+msgstr ""
+"Giá trị không hợp lệ cho trường tên của bản ghi SOA. Nó phải là tên của "
+"vùng."
+msgstr ""
+"Giá trị không hợp lệ cho trường tên của bản ghi SOA. Nó phải là tên của "
+"vùng."
+
+msgstr "Bạn gặp lỗi trong trường MNAME của bản ghi SOA."
+msgstr "Bạn gặp lỗi trong trường MNAME của bản ghi SOA."
+
+msgstr "Giá trị không hợp lệ cho trường nội dung của bản ghi HINFO."
+msgstr "Giá trị không hợp lệ cho trường nội dung của bản ghi HINFO."
+
+msgstr "Tên máy chủ quá dài."
+msgstr "Tên máy chủ quá dài."
+
+msgstr "Bạn đang sử dụng tên miền cấp cao nhất không hợp lệ."
+msgstr "Bạn đang sử dụng tên miền cấp cao nhất không hợp lệ."
+
+msgstr "Giá trị của trường TTL không hợp lệ. Nó phải là số."
+msgstr "Giá trị của trường TTL không hợp lệ. Nó phải là số."
+
+msgstr "Giá trị không hợp lệ cho trường ưu tiên. Nó phải là số."
+msgstr "Giá trị của trường ưu tiên không hợp lệ. Nó phải là số."
+
+msgstr "Giá trị không hợp lệ cho trường tên của bản ghi SRV."
+msgstr "Giá trị không hợp lệ cho trường tên của bản ghi SRV."
+
+msgstr "Giá trị không hợp lệ cho trường ưu tiên của bản ghi SRV."
+msgstr "Giá trị không hợp lệ cho trường ưu tiên của bản ghi SRV."
+
+msgstr "Giá trị không hợp lệ cho trường trọng số của bản ghi SRV."
+msgstr "Giá trị không hợp lệ cho trường trọng số của bản ghi SRV."
+
+msgstr "Mục tiêu SRV không hợp lệ."
+msgstr "Mục tiêu SRV không hợp lệ."
+
+msgstr "Các ký tự không hợp lệ đã được sử dụng trong bản ghi này."
+msgstr "Các ký tự không hợp lệ đã được sử dụng trong bản ghi này."
+
+msgstr "Vùng đã được thêm thành công."
+msgstr "Vùng đã được thêm thành công."
+
+msgstr "Vùng đã được xóa thành công."
+msgstr "Vùng đã được xóa thành công."
+
+msgstr "Các vùng đã được cập nhật thành công."
+msgstr "Các vùng đã được cập nhật thành công."
+
+msgstr "Người dùng đã được cập nhật thành công."
+msgstr "Người dùng đã được cập nhật thành công."
+
+msgstr "Người dùng đã được tạo thành công."
+msgstr "Người dùng đã được tạo thành công."
+
+msgstr "Người dùng đã được xóa thành công."
+msgstr "Người dùng đã được xóa thành công."
+
+msgstr "Bản ghi đã được cập nhật thành công."
+msgstr "Bản ghi đã được cập nhật thành công."
+
+msgstr "Bản ghi đã được xóa thành công."
+msgstr "Bản ghi đã được xóa thành công."
+
+msgstr "Bình luận đã được cập nhật thành công."
+msgstr "Bình luận đã được cập nhật thành công."
+
+msgstr "Siêu chủ đã được xóa thành công."
+msgstr "Siêu chủ đã được xóa thành công."
+
+msgstr "Siêu chủ đã được thêm thành công."
+msgstr "Siêu chủ đã được thêm thành công."
+
+msgstr "Mẫu quyền đã được cập nhật thành công."
+msgstr "Mẫu quyền đã được cập nhật thành công."
+
+msgstr "Mẫu quyền đã được xóa thành công."
+msgstr "Mẫu quyền đã được xóa thành công."
+
+msgstr "Mẫu vùng đã được thêm thành công."
+msgstr "Mẫu vùng đã được thêm thành công."
+
+msgstr "Mẫu vùng đã được cập nhật thành công."
+msgstr "Mẫu vùng đã được cập nhật thành công."
+
+msgstr "Mẫu vùng đã được xóa thành công."
+msgstr "Mẫu vùng đã được xóa thành công."
+
+#: inc/header.inc.php:59 index.php:37
+msgstr "Chỉ mục"
+msgstr "Chỉ mục"
+
+#: inc/header.inc.php:61 index.php:39 search.php:32
+msgstr "Tìm vùng và bản ghi"
+msgstr "Tìm vùng và bản ghi"
+
+#: inc/header.inc.php:64 index.php:42 list_zones.php:39
+msgstr "Liệt kê các vùng"
+msgstr "Liệt kê các vùng"
+
+#: inc/header.inc.php:67 index.php:45
+msgstr "Danh sách mẫu vùng"
+msgstr "Danh sách mẫu vùng"
+
+#: inc/header.inc.php:70 index.php:48 list_supermasters.php:32
+msgstr "Liệt kê các siêu cao thủ"
+msgstr "Liệt kê các siêu chủ"
+
+#: inc/header.inc.php:82 index.php:60 user.php:47
+msgstr "Quản trị người dùng"
+msgstr "Quản trị người dùng"
+
+#: inc/header.inc.php:83 index.php:61
+msgstr "Đăng xuất"
+msgstr "Đăng xuất"
+
+#: inc/record.inc.php:387
+msgstr ""
+"Bạn đang cố xóa bản ghi SOA. Bạn không được phép xóa nó,"
+"trừ khi bạn loại bỏ toàn bộ khu vực."
+msgstr ""
+"Bạn đang cố xóa bản ghi SOA. Bạn không được phép xóa nó,"
+"trừ khi bạn loại bỏ toàn bộ khu vực."
+
+#: inc/record.inc.php:751
+msgstr "Hàm trả về lỗi (nhiều vùng khớp với ID vùng này)."
+msgstr "Hàm trả về lỗi (nhiều vùng khớp với ID vùng này)."
+
+#: inc/toolkit.inc.php:33 reset_password.php:27
+msgstr "Bạn phải tạo một config.inc.php!"
+msgstr "Bạn phải tạo config.inc.php!"
+
+#: inc/toolkit.inc.php:173
+msgstr "Hiển thị các vùng bắt đầu bằng"
+msgstr "Hiển thị các vùng bắt đầu bằng"
+
+#: inc/toolkit.inc.php:246
+msgstr ""
+"Điều gì đó đã được thực hiện thành công. Tuy nhiên, chính xác thì điều gì sẽ "
+"vẫn còn là một bí ẩn."
+msgstr ""
+"Điều gì đó đã được thực hiện thành công. Tuy nhiên, chính xác thì điều gì sẽ "
+"vẫn còn là một bí ẩn."
+
+#: inc/toolkit.inc.php:258
+msgstr "Thành công!"
+msgstr "Thành công!"
+
+#: inc/toolkit.inc.php:269
+msgstr "Thành công!"
+msgstr "Thành công!"
+
+#: inc/toolkit.inc.php:275
+msgstr "trở lại"
+msgstr "trở lại"
+
+#: inc/toolkit.inc.php:314
+msgstr "Không hoạt động"
+msgstr "Không hoạt động"
+
+#: inc/toolkit.inc.php:318
+msgstr "Đang hoạt động"
+msgstr "Đang hoạt động"
+
+#: inc/users.inc.php:382
+msgstr "Mật khẩu đã được thay đổi, vui lòng đăng nhập."
+msgstr "Mật khẩu đã được thay đổi, vui lòng đăng nhập."
+
+#: index.php:26
+msgstr "Chào mừng"
+msgstr "Chào mừng"
+
+#: cài đặt/index.php:47
+msgstr "Bước cài đặt"
+msgstr "Bước cài đặt"
+
+#: install/index.php:62 install/index.php:80 install/index.php:135
+#: install/index.php:207 install/index.php:275 install/index.php:312
+msgstr "Đi tới bước"
+msgstr "Đi tới bước"
+
+#: cài đặt/index.php:69
+msgstr ""
+"Trình cài đặt này yêu cầu bạn có thể truy cập được cơ sở dữ liệu PowerDNS từ "
+"server. Trình cài đặt này cũng yêu cầu bạn chưa từng chạy Poweradmin trước đây,"
+" hoặc bạn muốn ghi đè lên phần Poweradmin của cơ sở dữ liệu. Nếu bạn "
+"đã chạy Poweradmin trước đó, mọi dữ liệu trong các bảng sau sẽ được"
+" đã bị hủy: perm_items, perm_templ, perm_templ_items, người dùng và vùng. Cái này "
+"tất nhiên, trình cài đặt sẽ không chạm vào dữ liệu trong bảng PowerDNS của "
+"cơ sở dữ liệu. Tuy nhiên, bạn nên tạo bản sao lưu của "
+"cơ sở dữ liệu trước khi tiếp tục."
+msgstr ""
+"Trình cài đặt này yêu cầu bạn có thể truy cập được cơ sở dữ liệu PowerDNS từ "
+"server. Trình cài đặt này cũng yêu cầu bạn chưa từng chạy Poweradmin trước đây,"
+" hoặc bạn muốn ghi đè lên phần Poweradmin của cơ sở dữ liệu. Nếu bạn "
+"đã chạy Poweradmin trước đó, mọi dữ liệu trong các bảng sau sẽ được"
+" đã bị hủy: perm_items, perm_templ, perm_templ_items, người dùng và vùng. Cái này "
+"tất nhiên, trình cài đặt sẽ không chạm vào dữ liệu trong bảng PowerDNS của "
+"cơ sở dữ liệu. Tuy nhiên, bạn nên tạo bản sao lưu của "
+"cơ sở dữ liệu trước khi tiếp tục."
+
+#: cài đặt/index.php:71
+msgstr ""
+"Cách thay thế cho trình cài đặt này là cài đặt thủ công. Hãy tham khảo "
+"trang web poweradmin.org nếu bạn muốn đi theo con đường đó."
+msgstr ""
+"Cách thay thế cho trình cài đặt này là cài đặt thủ công. Hãy tham khảo "
+"trang web poweradmin.org nếu bạn muốn đi theo con đường đó."
+
+#: cài đặt/index.php:73
+msgstr ""
+"Cuối cùng, nếu bạn thấy bất kỳ lỗi nào trong quá trình cài đặt thì có vấn đề"
+"báo cáo sẽ được đánh giá cao. Bạn có thể báo cáo vấn đề (và yêu cầu trợ giúp) trên "
+"các vấn đề về <a href=\"https://github.com/poweradmin/poweradmin/issues\" target=\"blank\">poweradmin</a>."
+msgstr ""
+"Cuối cùng, nếu bạn thấy bất kỳ lỗi nào trong quá trình cài đặt thì có vấn đề"
+"báo cáo sẽ được đánh giá cao. Bạn có thể báo cáo vấn đề (và yêu cầu trợ giúp) trên "
+"các vấn đề về <a href=\"https://github.com/poweradmin/poweradmin/issues\" target=\"blank\">poweradmin</a>."
+
+#: cài đặt/index.php:75
+msgstr "Bạn có muốn tiếp tục ngay bây giờ không?"
+msgstr "Bạn có muốn tiếp tục ngay bây giờ không?"
+
+#: cài đặt/index.php:86
+msgstr ""
+"Để chuẩn bị cơ sở dữ liệu cho việc sử dụng Poweradmin, trình cài đặt cần sửa đổi "
+"cơ sở dữ liệu PowerDNS. Nó sẽ thêm một số bảng và nó sẽ điền vào các bảng này"
+" các bảng với một số dữ liệu. Nếu các bảng đã có sẵn, trình cài đặt "
+"sẽ thả chúng xuống trước."
+msgstr ""
+"Để chuẩn bị cơ sở dữ liệu cho việc sử dụng Poweradmin, trình cài đặt cần sửa đổi "
+"cơ sở dữ liệu PowerDNS. Nó sẽ thêm một số bảng và nó sẽ điền vào các bảng này"
+" các bảng với một số dữ liệu. Nếu các bảng đã có sẵn, trình cài đặt "
+"sẽ thả chúng xuống trước."
+
+#: cài đặt/index.php:88
+msgstr ""
+"Để thực hiện tất cả những điều này, trình cài đặt cần truy cập vào cơ sở dữ liệu bằng "
+"tài khoản có đủ quyền. Nếu bạn tin cậy trình cài đặt, bạn có thể "
+"cung cho nó tên người dùng và mật khẩu của root người dùng cơ sở dữ liệu. Nếu không, hãy tạo"
+" đảm bảo người dùng có đủ quyền trước khi thực sự tiếp tục."
+msgstr ""
+"Để thực hiện tất cả những điều này, trình cài đặt cần truy cập vào cơ sở dữ liệu bằng "
+"tài khoản có đủ quyền. Nếu bạn tin cậy trình cài đặt, bạn có thể "
+"cung cho nó tên người dùng và mật khẩu của root người dùng cơ sở dữ liệu. Nếu không, hãy tạo"
+" đảm bảo người dùng có đủ quyền trước khi thực sự tiếp tục."
+
+#: cài đặt/index.php:95
+msgstr ""
+"Tên người dùng sẽ sử dụng để kết nối với cơ sở dữ liệu, hãy đảm bảo tên người dùng đó có "
+"đủ quyền để thực hiện nhiệm vụ quản trị cơ sở dữ liệu PowerDNS"
+"(trình cài đặt muốn thả, tạo và điền các bảng vào cơ sở dữ liệu)."
+msgstr ""
+"Tên người dùng sẽ sử dụng để kết nối với cơ sở dữ liệu, hãy đảm bảo tên người dùng đó có "
+"đủ quyền để thực hiện nhiệm vụ quản trị cơ sở dữ liệu PowerDNS"
+"(trình cài đặt muốn thả, tạo và điền các bảng vào cơ sở dữ liệu)."
+
+#: install/index.php:100 install/index.php:179
+msgstr "Mật khẩu cho tên người dùng này."
+msgstr "Mật khẩu cho tên người dùng này."
+
+#: cài đặt/index.php:103
+msgstr "Tên máy chủ"
+msgstr "Tên máy chủ"
+
+#: cài đặt/index.php:105
+msgstr ""
+"Tên máy chủ chứa cơ sở dữ liệu PowerDNS. Thông thường, điều này sẽ "
+"là \"localhost\"."
+msgstr ""
+"Tên máy chủ chứa cơ sở dữ liệu PowerDNS. Thông thường, điều này sẽ "
+"là \"localhost\"."
+
+#: cài đặt/index.php:108
+msgstr "Cổng DB"
+msgstr "Cổng DB"
+
+#: cài đặt/index.php:110
+msgstr "Cổng mà máy chủ cơ sở dữ liệu đang nghe."
+msgstr "Cổng mà máy chủ cơ sở dữ liệu đang nghe."
+
+#: cài đặt/index.php:113
+msgstr "Cơ sở dữ liệu"
+msgstr "Cơ sở dữ liệu"
+
+#: cài đặt/index.php:115
+msgstr "Tên của cơ sở dữ liệu PowerDNS."
+msgstr "Tên của cơ sở dữ liệu PowerDNS."
+
+#: cài đặt/index.php:118
+msgstr "Loại cơ sở dữ liệu"
+msgstr "Loại cơ sở dữ liệu"
+
+#: cài đặt/index.php:124
+msgstr "Loại cơ sở dữ liệu PowerDNS."
+msgstr "Loại cơ sở dữ liệu PowerDNS."
+
+#: cài đặt/index.php:127
+msgstr "Mật khẩu quản trị viên Poweradmin"
+msgstr "Mật khẩu quản trị viên Poweradmin"
+
+#: cài đặt/index.php:129
+msgstr ""
+"Mật khẩu của quản trị viên Poweradmin. Quản trị viên này có đầy đủ "
+"Quyền sử dụng Poweradmin bằng giao diện web."
+msgstr ""
+"Mật khẩu của quản trị viên Poweradmin. Quản trị viên này có đầy đủ "
+"Quyền sử dụng Poweradmin bằng giao diện web."
+
+#: cài đặt/index.php:141
+msgstr "Đang cập nhật cơ sở dữ liệu..."
+msgstr "Đang cập nhật cơ sở dữ liệu..."
+
+#: cài đặt/index.php:166
+msgstr "xong!"
+msgstr "xong!"
+
+#: cài đặt/index.php:168
+msgstr "Bây giờ chúng ta sẽ thu thập tất cả thông tin chi tiết về cấu hình."
+msgstr "Bây giờ chúng ta sẽ thu thập tất cả thông tin chi tiết về cấu hình."
+
+#: cài đặt/index.php:174
+msgstr ""
+"Tên người dùng cho Poweradmin. Người dùng mới này sẽ chỉ có các quyền hạn chế."
+msgstr ""
+"Tên người dùng cho Poweradmin. Người dùng mới này sẽ chỉ có các quyền hạn chế."
+
+#: cài đặt/index.php:182
+msgstr "Người quản lý máy chủ"
+msgstr "Người quản lý máy chủ"
+
+#: cài đặt/index.php:184
+msgstr ""
+"Khi tạo bản ghi SOA và không có máy chủ nào được cung cấp, giá trị này ở đây "
+"sẽ được sử dụng. Phải ở dạng \"hostmaster.example.net\"."
+msgstr ""
+"Khi tạo bản ghi SOA và không có máy chủ nào được cung cấp, giá trị này ở đây "
+"sẽ được sử dụng. Phải ở dạng \"hostmaster.example.net\"."
+
+#: cài đặt/index.php:187
+msgstr "Máy chủ tên chính"
+msgstr "Máy chủ tên chính"
+
+#: cài đặt/index.php:189
+msgstr ""
+"Khi tạo vùng mới bằng mẫu, giá trị này sẽ được sử dụng làm "
+"máy chủ tên chính. Phải giống như \"ns1.example.net\"."
+msgstr ""
+"Khi tạo vùng mới bằng mẫu, giá trị này sẽ được sử dụng làm "
+"máy chủ tên chính. Phải giống như \"ns1.example.net\"."
+
+#: cài đặt/index.php:192
+msgstr "Máy chủ định danh phụ"
+msgstr "Máy chủ tên phụ"
+
+#: cài đặt/index.php:194
+msgstr ""
+"Khi tạo vùng mới bằng mẫu, giá trị này sẽ được sử dụng làm "
+"máy chủ tên phụ. Phải giống như \"ns2.example.net\"."
+msgstr ""
+"Khi tạo vùng mới bằng mẫu, giá trị này sẽ được sử dụng làm "
+"máy chủ tên phụ. Phải giống như \"ns2.example.net\"."
+
+#: cài đặt/index.php:230
+msgstr ""
+"Bây giờ bạn muốn cấp quyền hạn chế cho Poweradmin để nó có thể cập nhật dữ liệu"
+"trong các bảng. Để thực hiện việc này, bạn nên tạo một người dùng mới và cấp quyền cho nó "
+"để chọn, xóa, chèn và cập nhật các bản ghi trong cơ sở dữ liệu PowerDNS."
+msgstr ""
+"Bây giờ bạn muốn cấp quyền hạn chế cho Poweradmin để nó có thể cập nhật dữ liệu"
+"trong các bảng. Để thực hiện việc này, bạn nên tạo một người dùng mới và cấp quyền cho nó "
+"để chọn, xóa, chèn và cập nhật các bản ghi trong cơ sở dữ liệu PowerDNS."
+
+#: cài đặt/index.php:241
+msgstr "Trong MySQL bây giờ bạn nên thực hiện lệnh sau:"
+msgstr "Trong MySQL bây giờ bạn nên thực hiện lệnh sau:"
+
+#: cài đặt/index.php:244
+msgstr "Trên PGSQL bạn sẽ sử dụng:"
+msgstr "Trên PGSQL bạn sẽ sử dụng:"
+
+#: cài đặt/index.php:259
+msgstr ""
+"Sau khi bạn đã thêm người dùng mới, hãy tiến hành quy trình cài đặt này."
+msgstr ""
+"Sau khi bạn đã thêm người dùng mới, hãy tiến hành quy trình cài đặt này."
+
+#: cài đặt/index.php:301
+msgstr "Trình cài đặt có thể ghi vào tập tin"
+msgstr "Trình cài đặt có thể ghi vào tập tin"
+
+#: cài đặt/index.php:301
+msgstr ""
+"Cấu hình cơ bản, dựa trên chi tiết bạn cung cấp, đã được "
+"tạo."
+msgstr ""
+"Cấu hình cơ bản, dựa trên chi tiết bạn cung cấp, đã được "
+"tạo."
+
+#: cài đặt/index.php:303
+msgstr "Trình cài đặt không thể ghi vào tập tin"
+msgstr "Trình cài đặt không thể ghi vào tập tin"
+
+#: cài đặt/index.php:303
+msgstr ""
+"(bản thân nó đã tốt rồi). Cấu hình được in ở đây. Bạn nên "
+"bây giờ tạo tập tin"
+msgstr ""
+"(bản thân nó đã tốt rồi). Cấu hình được in ở đây. Bạn nên "
+"bây giờ tạo tập tin"
+
+#: cài đặt/index.php:303
+msgstr ""
+" trong thư mục gốc Poweradmin. Nó phải chứa "
+"vài dòng sau:"
+msgstr ""
+" trong thư mục gốc Poweradmin. Nó phải chứa "
+"vài dòng sau:"
+
+#: cài đặt/index.php:318
+msgstr ""
+"Bây giờ chúng ta đã cấu hình xong, bạn nên (phải!) xóa "
+"thư mục \"install/\" từ thư mục gốc Poweradmin. Bạn sẽ không "
+"có thể sử dụng Poweradmin nếu nó tồn tại. Hãy làm ngay bây giờ."
+msgstr ""
+"Bây giờ chúng ta đã cấu hình xong, bạn nên (phải!) xóa "
+"thư mục \"install/\" từ thư mục gốc Poweradmin. Bạn sẽ không "
+"có thể sử dụng Poweradmin nếu nó tồn tại. Hãy làm ngay bây giờ."
+
+#: cài đặt/index.php:319
+msgstr ""
+"Sau khi bạn đã xóa thư mục, bạn có thể đăng nhập vào <a "
+"href=\"../index.php\">Poweradmin</a> với tên người dùng \"admin\" và mật khẩu"
+msgstr ""
+"Sau khi bạn đã xóa thư mục, bạn có thể đăng nhập vào <a "
+"href=\"../index.php\">Poweradmin</a> với tên người dùng \"admin\" và mật khẩu"
+
+#: list_perm_templ.php:32
+msgstr "Mẫu quyền"
+msgstr "Mẫu quyền"
+
+#: list_perm_templ.php:48 list_zone_templ.php:46
+msgstr "Chỉnh sửa mẫu"
+msgstr "Chỉnh sửa mẫu"
+
+#: list_perm_templ.php:49 list_zone_templ.php:47
+msgstr "Xóa mẫu"
+msgstr "Xóa mẫu"
+
+#: list_supermasters.php:44 list_zones.php:49
+msgstr "Không có vùng nào để hiển thị trong danh sách này."
+msgstr "Không có khu vực nào được hiển thị trong danh sách này."
+
+#: list_zone_templ.php:33
+msgstr "Mẫu vùng cho"
+msgstr "Mẫu vùng cho"
+
+#: list_zones.php:42
+msgstr "Bạn không có quyền xem bất kỳ khu vực nào."
+msgstr "Bạn không có quyền xem bất kỳ khu vực nào."
+
+#: list_zones.php:69
+msgstr "Bản ghi"
+msgstr "Bản ghi"
+
+#: list_zones.php:71
+msgstr "Nối tiếp"
+msgstr "Nối tiếp"
+
+#: list_zones.php:97
+msgstr "Khu vực xem"
+msgstr "Xem vùng"
+
+#: list_zones.php:116
+msgstr "Xóa (các) vùng"
+msgstr "Xóa (các) vùng"
+
+#: reset_password.php:89
+msgstr "Đặt lại mật khẩu"
+msgstr "Đặt lại mật khẩu"
+
+#: reset_password.php:93
+msgstr "Địa chỉ Email đã đăng ký"
+msgstr "Địa chỉ email đã đăng ký"
+
+#: reset_password.php:99
+msgstr "Đặt lại mật khẩu"
+msgstr "Đặt lại mật khẩu"
+
+#: search.php:61
+msgstr "Đã tìm thấy vùng"
+msgstr "Đã tìm thấy vùng"
+
+#: search.php:67
+msgstr "Chính"
+msgstr "Chính"
+
+#: search.php:115
+msgstr "Đã tìm thấy bản ghi"
+msgstr "Đã tìm thấy bản ghi"
+
+#: search.php:155
+msgstr "Truy vấn"
+msgstr "Truy vấn"
+
+#: search.php:161
+msgstr "Tìm kiếm"
+msgstr "Tìm kiếm"
+
+#: search.php:166
+msgstr ""
+"Nhập tên máy chủ hoặc địa chỉ IP. Hỗ trợ cú pháp SQL THÍCH: dấu gạch dưới (_)"
+" trong mẫu khớp với bất kỳ ký tự đơn nào, dấu phần trăm (%) khớp với bất kỳ "
+"chuỗi không hoặc nhiều ký tự."
+msgstr ""
+"Nhập tên máy chủ hoặc địa chỉ IP. Hỗ trợ cú pháp SQL THÍCH: dấu gạch dưới (_)"
+" trong mẫu khớp với bất kỳ ký tự đơn nào, dấu phần trăm (%) khớp với bất kỳ "
+"chuỗi không hoặc nhiều ký tự."
